@@ -46,4 +46,3 @@ class QuizBrain {
     _questionNumber = 0;
   }
 }
-
